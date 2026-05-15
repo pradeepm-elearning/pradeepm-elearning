@@ -1,30 +1,40 @@
 # MY SCRIBBLING PAD
 ### Repository Structures
-1. ci-cd
+- [x] ci-cd
    -  jenkins
    -  azure pipelines
-2. cloud
-   -  aws
-   -  azure
-   -  gcp
-3. containers
+
+- [ ] cloud
+   -   aws
+   -   azure
+   -   gcp
+
+- [ ] containers
    -   docker
    -   kubernetes
-4. database
+
+- [ ] database
    -   mysql
    -   oracle
-5. iac
-    -   terraform
-    -   ansible
-6. networking
+
+- [ ] iac
+   -   terraform
+   -   ansible
+
+- [x] networking
    -   cisco
-7. os
+
+- [x] os
    -   linux
    -   windows
-8. programming
+
+- [ ] programming
    -   python
    -   shell scripting
-9. streaming
-    -   kafka
-10. pradeepm-elearning
-11. devops
+
+- [ ] streaming
+   -   kafka
+
+- [x] pradeepm-elearning
+
+- [ ] devops
